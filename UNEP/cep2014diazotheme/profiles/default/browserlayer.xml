@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<!-- Register the package-specific browser layer,
+     so that it will be activated
+     when this product is installed. -->
+<layers>
+    <layer name="UNEP.cep2014diazotheme.customization.layer"
+      interface="UNEP.cep2014diazotheme.interfaces.ICustomTheme" />
+</layers>
