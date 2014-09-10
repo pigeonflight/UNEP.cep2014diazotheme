@@ -2,7 +2,7 @@
 *.mo
 *.egg
 /.installed.cfg
-UNEP.cartagenareportingtool.egg-info
+*.egg-info
 /bin/
 /develop-eggs/
 /include/
