@@ -10,7 +10,7 @@
 
   <genericsetup:registerProfile
       name="default"
-      title="CEP 2014 Diazo Theme"
+      title="UNEP - CEP 2014 Diazo Theme"
       directory="profiles/default"
       description="Extension profile for CEP 2014 Diazo Theme"
       provides="Products.GenericSetup.interfaces.EXTENSION"
