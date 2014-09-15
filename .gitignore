@@ -1,5 +1,6 @@
 *.pyc
 *.mo
+.DS_Store
 *.egg
 /.installed.cfg
 *.egg-info
